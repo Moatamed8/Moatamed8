@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/moatamedelbana" target="blank"><img src="https://img.shields.io/twitter/follow/moatamedelbana?logo=twitter&style=for-the-badge" alt="moatamedelbana" /></a> </p>
 
-- 🔭 I’m currently working on **TREADE OFF**
-
 - 🌱 I’m currently learning **iOS Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
