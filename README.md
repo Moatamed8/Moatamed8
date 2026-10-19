@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/moatamedelbana" target="blank"><img src="https://img.shields.io/twitter/follow/moatamedelbana?logo=twitter&style=for-the-badge" alt="moatamedelbana" /></a> </p>
 
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently learning **Agentic Ai**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/Moatamed8](https://www.freelancer.com/u/Moatamed8)
+- 👨‍💻 Some of my projects Links are available in My Resume https://drive.google.com/drive/folders/11W6E9Ng2HkRONMFeNT1UN46BmUJEmrgm?usp=sharing
 
 - 💬 Ask me about **Flutter ,Dart ,Android,Java**
 
 - 📫 How to reach me **metmedelbana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M3gLE_Nl16KqMSnIK_d8sFW2ExNjPU2L/view?usp=sharing](https://drive.google.com/file/d/1M3gLE_Nl16KqMSnIK_d8sFW2ExNjPU2L/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/drive/folders/11W6E9Ng2HkRONMFeNT1UN46BmUJEmrgm?usp=sharing)
 
 - ⚡ Fun fact **I love playing video games**
 
